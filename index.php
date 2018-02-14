@@ -6,16 +6,6 @@ if($loggedIn) {
 	$conn = mysqli_connect("localhost", "root", "", "Databaseexam");
 	$sql = "SELECT id, imageURL FROM images WHERE owner = id";
 	$imageresult = $conn->query($sql);
-
-
-/*
-$sql = "SELECT id FROM adminuser WHERE username = '$username' AND password = '$password'";
-*/
-
-
-/*
-$sql = SELECT id, imageURL FROM images WHERE owner = id;
-*/
 }
 ?>
 

@@ -1,4 +1,4 @@
-EKSAMEN I DATABASE PROGRAMMERING
+﻿EKSAMEN I DATABASE PROGRAMMERING
 I mappen finder i en række php filer. Indstil som det første jeres XAMPP til at pege på denne mappe. I filen database.sql finder i en database i skal importere for at denne kode virker.
 
 Koden her beskriver en meget simpel fotodelings side. Der er i skrivende stund to brugere på den, som kan ses i databasen. Hvis man logger ind kan man se de billeder brugeren har tilknyttet sin profil. Læg mærke til at der nederst på forsiden er et link der tager jer til admin siden.
@@ -17,3 +17,6 @@ Hvis i undervejs finder ting i mener kunne laves bedre må i meget gerne lave de
 Til aflevering SKAL i huske at tilføje en .sql fil med den database i ender med at have. Uden denne er afleveringen desværre ugyldig. Derudover SKAL i tagge det commit som er jeres afleverings commit.
 
 God Arbejdslyst!!!
+
+navn:
+Kasper Tousgaard Mikkelsen

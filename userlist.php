@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect("localhost", "root", "", "DatabaseExam");
+	$conn = mysqli_connect("localhost", "root", "", "Databaseexam");
 	$sql = "SELECT id FROM users WHERE 1";
 	$result = $conn->query($sql);
 ?>

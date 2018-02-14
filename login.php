@@ -3,7 +3,7 @@ session_start();
 $usrname = $_POST["username"];
 $password = $_POST["password"];
 
-$conn = mysqli_connect("localhost", "root", "", "DatabaseExam");
+$conn = mysqli_connect("localhost", "root", "", "Databaseexam");
 
 $sql = "SELECT id, name FROM users WHERE username = '$usrname' AND password = '$password'";
 echo $sql . "<br>";

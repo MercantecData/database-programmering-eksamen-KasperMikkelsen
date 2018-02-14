@@ -125,3 +125,8 @@ if($loggedIn) {
 
 </body>
 </html>
+
+<!--
+This page was not working from the start but it works now
+but the error msg in the test i was not able to remove it
+-->

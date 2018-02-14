@@ -19,3 +19,8 @@
 	?>
 </body>
 </html>
+
+<!--
+Then the admin logs on he/she can see a list of all the users in the database
+but are not able to delete them
+-->

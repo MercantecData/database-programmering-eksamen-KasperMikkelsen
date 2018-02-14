@@ -15,3 +15,7 @@ $name = $row["name"];
 $_SESSION['userID'] = $id;
 $_SESSION["userName"] = $name;
 header("Location: index.php");//redirects back
+
+/*
+Was not able to get this to work
+*/
